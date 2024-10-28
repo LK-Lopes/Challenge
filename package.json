@@ -1,0 +1,13 @@
+{
+    "name": "challenge",
+    "version": "1.0.0",
+    "scripts": {
+      "build": "tsc",
+      "start": "node dist/main.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "typescript": "^4.0.0"
+    }
+  }
+  
